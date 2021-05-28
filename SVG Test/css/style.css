@@ -13,10 +13,10 @@ html {
 }
 
 :root {
-    --primary-color: blue;
+    --primary-color: red;
 }
 
 body{
-    background-color: var(--primary-color, blue);
+    background-color: var(--primary-color, red);
 }
 
